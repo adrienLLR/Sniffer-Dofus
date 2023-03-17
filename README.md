@@ -9,3 +9,7 @@ Une fois les paquets reçus, en connaissant le protocole réseau du jeu, il est 
 
 Malheureusement, je n'ai eu le temps que de deserializer les messages d'identifiant 5080, donc le programme est inachevé.
 
+# Idée possible 
+
+Hook la socket du client dofus pour changer l'ip et la rediriger vers un proxy qui fera l'intermédiaire entre le client et le serveur, faciliant l'analyse des paquets et l'envoie des paquets ( pour un bot plus évolué )
+
