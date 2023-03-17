@@ -11,5 +11,5 @@ Malheureusement, je n'ai eu le temps que de deserializer les messages d'identifi
 
 # Idée possible 
 
-Hook la socket du client dofus pour changer l'ip et la rediriger vers un proxy qui fera l'intermédiaire entre le client et le serveur, faciliant l'analyse des paquets et l'envoie des paquets ( pour un bot plus évolué )
+Hook ( avec frida ) la socket du client dofus pour changer l'ip et la rediriger vers un proxy qui fera l'intermédiaire entre le client et le serveur, faciliant l'analyse des paquets et l'envoie des paquets ( pour un bot plus évolué ). 
 
